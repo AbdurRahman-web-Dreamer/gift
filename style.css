@@ -22,22 +22,22 @@ body{
   --color-3: #7d189c;
 }
 
-.body {
+body {
   --color-1: #2b38e9;
-  --color-2: #cf2a8b;
+  --color-2: #6e1a4b;
   --color-3: #171f4d;
 }
 
-.body{
-  --color-1: #ACCFCB;
-  --color-2: #E4A9A8;
-  --color-3: #ACCFCB;
+body{
+  --color-1: #85cc27;
+  --color-2: #e97a78;
+  --color-3: #facf12;
 }
 
-.body {
+body {
   --color-1: #2b38e9;
   --color-2: #cf2a8b;
-  --color-3: #2a47ec;
+  --color-3: #7b16be;
 }
 
 @keyframes color-animation {
